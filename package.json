@@ -1,0 +1,21 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": " project selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrii",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "selenium-webdriver": "^4.19.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^123.0.4",
+    "jest-fetch-mock": "^3.0.3",
+    "webdriver-manager": "^12.1.9"
+  },
+  "keywords": []
+}
